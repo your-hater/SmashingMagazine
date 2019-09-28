@@ -1,0 +1,1459 @@
+<!doctype html>
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="yandex-verification" content="51e0b6af07f76b00" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://pltf.ru/xmlrpc.php">
+	<title>Интернет и общество: реальные и социально сконструированные угрозы. - Платформа</title>
+<style>
+	/* Custom BSA_PRO Styles */
+
+	/* fonts */
+
+	/* form */
+	.bsaProOrderingForm {   }
+	.bsaProInput input,
+	.bsaProInput input[type='file'],
+	.bsaProSelectSpace select,
+	.bsaProInputsRight .bsaInputInner,
+	.bsaProInputsRight .bsaInputInner label {   }
+	.bsaProPrice  {  }
+	.bsaProDiscount  {   }
+	.bsaProOrderingForm .bsaProSubmit,
+	.bsaProOrderingForm .bsaProSubmit:hover,
+	.bsaProOrderingForm .bsaProSubmit:active {   }
+
+	/* allerts */
+	.bsaProAlert,
+	.bsaProAlert > a,
+	.bsaProAlert > a:hover,
+	.bsaProAlert > a:focus {  }
+	.bsaProAlertSuccess {  }
+	.bsaProAlertFailed {  }
+
+	/* stats */
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-slice.ct-donut { stroke: #673AB7 !important; }
+
+	.bsaStatsWrapper  .ct-chart .ct-series.ct-series-a .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-slice.ct-donut { stroke: #FBCD39 !important; }
+
+
+	/* Custom CSS */
+	
+</style><link href='http://fonts.googleapis.com/css?family=Roboto+Slab:200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Work+Sans:200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext' rel='stylesheet' type='text/css'>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://pltf.ru/2017/04/18/internet-i-obshestvo/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Интернет и общество: реальные и социально сконструированные угрозы. - Платформа" />
+<meta property="og:description" content="Исследование ЦСП «Платформа»: введение ограничений в интернете не решит проблему подростковых суицидов. 73% населения считает, что главная причина - проблемы в семье." />
+<meta property="og:url" content="http://pltf.ru/2017/04/18/internet-i-obshestvo/" />
+<meta property="og:site_name" content="Платформа" />
+<meta property="article:section" content="Исследования" />
+<meta property="article:published_time" content="2017-04-18T16:40:37+00:00" />
+<meta property="og:image" content="http://pltf.ru/wp-content/uploads/2017/04/12-Tech-Companies-with-Flexible-Jobs-for-You.jpg" />
+<meta property="og:image:width" content="1698" />
+<meta property="og:image:height" content="940" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Исследование ЦСП «Платформа»: введение ограничений в интернете не решит проблему подростковых суицидов. 73% населения считает, что главная причина - проблемы в семье." />
+<meta name="twitter:title" content="Интернет и общество: реальные и социально сконструированные угрозы. - Платформа" />
+<meta name="twitter:image" content="http://pltf.ru/wp-content/uploads/2017/04/12-Tech-Companies-with-Flexible-Jobs-for-You.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Платформа &raquo; Лента" href="http://pltf.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Платформа &raquo; Лента комментариев" href="http://pltf.ru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/pltf.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.10"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bbp-default-css'  href='http://pltf.ru/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='buy_sell_ads_pro_main_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/style.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_template_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/template.css.php?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_materialize_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/material-design.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_animate_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/animate.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_chart_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/chart.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_owl_carousel_stylesheet-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/owl.carousel.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/css/asset/ui-datapicker.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://pltf.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_review-style-css'  href='http://pltf.ru/wp-content/plugins/wp-review/assets/css/wp-review.css?ver=4.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='google-maps-builder-plugin-styles-css'  href='http://pltf.ru/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/assets/css/google-maps-builder.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-maps-builder-map-icons-css'  href='http://pltf.ru/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/css/map-icons.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='garage-core-style-css'  href='http://pltf.ru/wp-content/themes/garage/includes/assets/css/evo-core.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='garage-style-css'  href='http://pltf.ru/wp-content/themes/garage/style.css?ver=4.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='garage-custom-style-css'  href='http://pltf.ru/wp-content/themes/garage/includes/assets/css/css-settings.css?ver=4.8.10' type='text/css' media='all' />
+<style id='garage-custom-style-inline-css' type='text/css'>
+body{font-family:Roboto Slab!important;}
+.evo-logo-text{font-family:Roboto Slab!important;}
+.evo-main-menu > ul > li > a{font-family:Roboto Slab!important;font-size:16px!important;}
+.evo-topbar-menu ul li a{font-family:Work Sans;}
+.evo-title{font-family:Roboto Slab!important;}
+.evo-post-meta > *{font-family:Roboto!important;}
+.entry-content p{font-family:Roboto!important;font-size:16px!important;}
+.evo-header-background{background-color:#ffffff;}.evo-header-background{background-image:url();}.evo-logo-header{padding:50px 0px;}.evo-post .evo-entry-title a:hover{color:#d80020;}.evo-loader span:before, .evo-post-tags .evo-tags ul li a:hover, .evo-post-tags .evo-source a:hover, .evo-author-bio .evo-author-name a:hover, .comment-list li .comment-author a:hover, .entry-content blockquote:before, .evo-most-viewed-widget .evo-mv-number, .evo-footer-social ul li a:hover, .evo-trending-posts .evo-slider .slick-arrow:hover:before, .evo-single .entry-content a, .comment-list li .comment-content .comment-text p a{color:#d80020;}.slick-dots li.slick-active button, .evo-carousel-b.dark .slick-dots li.slick-active button, .evo-cat-module-d .evo-modulle-inner, .evo-cat-module-g .evo-post-body{border-color:#d80020;}.evo-slider:after{border-top-color:#d80020;}.evo-reading-post .evo-hide-read:hover a span, .evo-reading-post .evo-show-read:hover .evo-close:before, .evo-reading-post .evo-show-read:hover .evo-close:after, .evo-most-viewed-widget .evo-post:before, .evo-trending-close:hover .evo-close:before, .evo-trending-close:hover .evo-close:after{background-color:#d80020;}.evo-subscribe-widget .evo-widget-inner, .evo-tab-list a:before, .evo-tab-widget .evo-post-number{background-color:#d80020;}.evo-quick-buttons > * > a:hover, .evo-social-button:hover .evo-social-dropdown-icon, .evo-topbar-menu ul li a:hover, .evo-topbar-menu ul li:hover > a{color:#88b04b;}.evo-main-menu ul li > a:hover, .evo-main-menu ul li:hover > a, .evo-menu-light .evo-main-menu > ul > li > a:hover, .evo-menu-light .evo-main-menu > ul > li:hover > a{color:#88b04b;}.evo-post-meta > *, .evo-post-meta > * > a{color:#999;}.evo-author > a{color:#111;}.evo-review.review-point .evo-total-rating, .evo-review-bar-item span{background-color:#ffd700;}.evo-review-rating-stars{color:#ffd700;}
+</style>
+<link rel='stylesheet' id='slb_core-css'  href='http://pltf.ru/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='http://pltf.ru/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='http://pltf.ru/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<link rel='stylesheet' id='st-responsive-css'  href='http://pltf.ru/wp-content/themes/garage/assets/css/responsive.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"\u0414\u0430\u043b\u0435\u0435 \u2192","prev":"\u2190 \u041d\u0430\u0437\u0430\u0434","image":"\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435","of":"\u0438\u0437","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","noiframes":"\u042d\u0442\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0438\u0445 \u0444\u0440\u0435\u0439\u043c\u043e\u0432. \u0423 \u0432\u0430\u0441 \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0442\u0435\u0433\u0438 iframe, \u043b\u0438\u0431\u043e \u0432\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u0438\u0445 \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442.","loadingAnimation":"http:\/\/pltf.ru\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/shortcode.min.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-admin/js/media-upload.min.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/js/script.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/js/jquery.viewportchecker.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/js/chart.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/js/owl.carousel.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bsa-pro-scripteo/frontend/js/jquery.simplyscroll.js?ver=4.8.10'></script>
+<script type='text/javascript' src='https://js.stripe.com/v2/?ver=4.8.10'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;libraries=places&#038;ver=4.8.10'></script>
+<link rel='https://api.w.org/' href='http://pltf.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pltf.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pltf.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.10" />
+<link rel='shortlink' href='http://pltf.ru/?p=1246' />
+<link rel="alternate" type="application/json+oembed" href="http://pltf.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://pltf.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Отправить",
+	Save: "Сохранить",
+	Subscribe: "Подписаться",
+	Email: "Email",
+	Bookmark: "В закладки!",
+	ShowAll: "Показать все",
+	ShowLess: "Показать остальное",
+	FindServices: "Найти сервис(ы)",
+	FindAnyServiceToAddTo: "Найти сервис и добавить",
+	PoweredBy: "Работает на",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Добавить в закладки",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Добавить в Избранное",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://pltf.ru/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
+<![endif]-->
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://pltf.ru/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://pltf.ru/wp-content/uploads/2017/09/favicon-65x65.png" sizes="32x32" />
+<link rel="icon" href="http://pltf.ru/wp-content/uploads/2017/09/favicon-250x250.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://pltf.ru/wp-content/uploads/2017/09/favicon-250x250.png" />
+<meta name="msapplication-TileImage" content="http://pltf.ru/wp-content/uploads/2017/09/favicon-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Здесь можно добавить ваши CSS-стили.
+
+Нажмите на значок помощи выше, чтобы узнать больше.
+*/		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="google-site-verification" content="1sdWwM-VtdTuwwjhd7uA3GRMRA0YZCdRjlEJRuERZNU" />
+</head>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45939987 = new Ya.Metrika({
+                    id:45939987,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45939987" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<body class="post-template-default single single-post postid-1246 single-format-standard hidpi-on wpb-js-composer js-comp-ver-5.2.1 vc_responsive">
+			<div class="garage-theme evo-topbar-dark evo-main-dark evo-sticky-light evo-mobile-dark">
+		<header class="evo-header">
+	<div class="evo-topbar evo-mobile-hidden">
+		<div class="container">
+
+			<div class="evo-quick-buttons evo-quick-left">
+				<div class="evo-home-button">
+					<a href="http://pltf.ru/"><i class="fa fa-home"></i></a>
+				</div>
+									<div class="evo-trend-button"><a href="javascript:;"><i class="fa fa-flash"></i></a></div>
+							</div><!-- evo-quick-buttons -->
+
+			<nav class="evo-topbar-menu">
+							</nav><!-- evo-topbar-menu -->
+
+			<div class="evo-quick-buttons evo-quick-right">
+									<div class="evo-social-button">
+						<a class="evo-social-dropdown-icon"><i class="fa fa-ellipsis-h"></i></a>
+						<div class="evo-social-dropdown">
+							<ul class="evo-social">
+																			<li>
+																								<a class="facebook" href="https://www.facebook.com/csdplatforma/" 
+												target=&quot;_blank >
+												<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+																					<li>
+																								<a class="linkedin" href="https://www.telegram.me/platforma_channel" 
+												target=&quot;_blank >
+												<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+																	</ul>
+													</div><!-- evo-social-dropdown -->
+					</div><!-- evo-social-button -->
+								
+				<div class="evo-search-button">
+					<a href="javascript:;"><i class="fa fa-search"></i></a>
+				</div><!-- evo-search-button -->
+			</div><!-- evo-quick-buttons -->
+
+		</div><!-- container -->
+	</div><!-- evo-topbar -->
+
+	<div class="evo-logo-header evo-mobile-hidden">
+		<div class="container">
+											<div class="evo-brand-logo">
+									<a href="http://pltf.ru/">
+										<img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1.png" alt="Платформа"/>
+									</a>
+								</div>
+															</div><!-- container -->
+	</div><!-- evo-logo-header -->
+
+	<div class="evo-main-nav evo-mobile-hidden">
+		<div class="container">
+						<nav class="evo-main-menu main-nav">
+				<ul id="menu-%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e" class="evo-menu"><li id="menu-item-1756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1756"><a href="#">О Платформе</a><div class="evo-child-menu">
+<ul class="sub-menu">
+	<li id="menu-item-1759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759"><a href="http://pltf.ru/platforma/about/">О нас</a></li>
+	<li id="menu-item-1757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757"><a href="http://pltf.ru/platforma/history/">История</a></li>
+	<li id="menu-item-1758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1758"><a href="http://pltf.ru/platforma/methodology/">Методология</a></li>
+</ul>
+</div></li>
+<li id="menu-item-1862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1862"><a href="http://pltf.ru/category/research/">Исследования</a></li>
+<li id="menu-item-1863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1863"><a href="http://pltf.ru/category/experts/">Эксперты</a></li>
+<li id="menu-item-1864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1864"><a href="http://pltf.ru/category/events/">События</a></li>
+<li id="menu-item-1772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1772"><a href="http://pltf.ru/category/media-about/">СМИ о нас</a></li>
+</ul>				
+		</div><!-- container -->
+	</div><!-- evo-main-nav -->
+
+	<div class="evo-mobile-header evo-desktop-hidden">
+							<div class="evo-mobile-logo">
+						<a href="http://pltf.ru/">
+							<img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1.png" alt="Платформа"/>
+						</a>
+					</div>
+								<div class="evo-quick-buttons">
+			<div class="evo-search-button">
+				<a href="javascript:;"><i class="fa fa-search"></i></a>
+			</div><!-- evo-search-button -->
+			<div class="evo-navicon">
+				<a class="evo-hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+				</a>
+			</div><!-- evo-navicon -->
+		</div><!-- evo-quick-buttons -->
+	</div><!-- evo-mobile-header -->
+
+	<div class="evo-sticky-header evo-mobile-hidden">
+		<div class="evo-sticky-inner">
+			<div class="container">
+										<div class="evo-sticky-logo">
+							<a href="http://pltf.ru/">
+								<img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1.png" alt="Платформа"/>
+							</a>
+						</div>
+													<div class="evo-sticky-menu"></div>
+				<div class="evo-sticky-buttons evo-quick-buttons">
+										<div class="evo-social-button">
+						<a><i class="fa fa-ellipsis-h"></i></a>
+						<div class="evo-social-dropdown">
+							<ul class="evo-social">
+																			<li>
+																								<a class="facebook" href="https://www.facebook.com/csdplatforma/" 
+												target=&quot;_blank >
+												<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+																					<li>
+																								<a class="linkedin" href="https://www.telegram.me/platforma_channel" 
+												target=&quot;_blank >
+												<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+																	</ul>
+													</div><!-- evo-social-dropdown -->
+					</div><!-- evo-search-button -->
+										<div class="evo-search-button">
+						<a href="javascript:;"><i class="fa fa-search"></i></a>
+					</div><!-- evo-search-button -->
+				</div>
+			</div><!-- container -->
+							<div class="evo-sticky-single">
+					<div class="evo-reading-post">
+						<div class="evo-show-read">
+							<a><span class="evo-close"></span></a>
+						</div><!-- evo-show-read -->
+						<div class="evo-hide-read">
+							<a class="evo-hamburger">
+								<span></span>
+								<span></span>
+								<span></span>
+							</a>
+						</div><!-- evo-evo-hide-read -->
+						<span>Читаем:</span>
+						<h6 class="evo-entry-title"></h6>
+					</div><!-- evo-reading-post -->
+					<div class="evo-reading-buttons">
+												<div class="evo-reading-prev evo-rd-directions">
+							<a href="http://pltf.ru/2017/04/13/golos-molodezhi/"><i class="fa fa-chevron-left"></i><span>Пред</span></a>
+						</div>
+												<div class="evo-reading-next evo-rd-directions">
+							<a href="http://pltf.ru/2017/04/20/issledovateli-ne-soglasilis/"><span>След</span><i class="fa fa-chevron-right"></i></a>
+						</div>
+											</div><!-- evo-reading-buttons -->
+					<div class="evo-single-progress"><span class="evo-scroll-line"></span></div>
+				</div><!-- evo-sticky-single -->
+					</div><!-- evo-sticky-inner -->
+	</div><!-- evo-sticky-header -->
+
+	<div class="evo-mobile-nav">
+		<div class="evo-scrollbar scrollbar-macosx">
+			<div class="evo-mobile-nav-header">
+										<div class="evo-mobile-logo">
+							<a href="http://pltf.ru/">
+								<img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1.png" alt="Платформа"/>
+							</a>
+						</div>
+													<div class="evo-mobile-close"><span class="evo-close"></span></div>
+			</div><!-- evo-mobile-header -->
+			<div class="evo-mobile-nav-main">
+				<nav class="evo-mobile-menu">
+					<ul id="menu-mobilnaja-versija" class=""><li id="menu-item-1817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1817"><a href="#">О Платформе</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="http://pltf.ru/platforma/about/">О нас</a></li>
+	<li id="menu-item-1818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1818"><a href="http://pltf.ru/platforma/history/">История</a></li>
+	<li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1819"><a href="http://pltf.ru/platforma/methodology/">Методология</a></li>
+</ul>
+</li>
+<li id="menu-item-1821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1821"><a href="http://pltf.ru/category/research/">Исследования</a></li>
+<li id="menu-item-1822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1822"><a href="http://pltf.ru/category/experts/">Эксперты</a></li>
+<li id="menu-item-1823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1823"><a href="http://pltf.ru/category/events/">События</a></li>
+<li id="menu-item-1824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1824"><a href="http://pltf.ru/category/media-about/">СМИ о нас</a></li>
+</ul>				</nav><!-- evo-mobile-menu -->
+			</div><!-- evo-mobile-nav-main -->
+
+			<div class="evo-mobile-social">
+				<ul class="evo-social">
+													<li>
+																		<a href="https://www.facebook.com/csdplatforma/" 
+									target=&quot;_blank >
+									<i class="fa fa-facebook"></i>
+									</a>
+								</li>
+															<li>
+																		<a href="https://www.telegram.me/platforma_channel" 
+									target=&quot;_blank >
+									<i class="fa fa-linkedin"></i>
+									</a>
+								</li>
+											</ul>
+			</div><!-- evo-mobile-social -->
+
+			<div class="evo-mobile-copyright">
+				<span>Платформа 2017</span>
+			</div><!-- evo-mobile-copyright -->
+		</div><!-- scrollbar-macosx -->
+	</div><!-- evo-mobile-nav -->
+
+	<div class="evo-header-background evo-mobile-hidden"></div>
+</header><!-- evo-header -->	<div class="evo-main evo-single-main evo-single-pad">
+						<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-sm-12 col-xs-12 evo-post-main">
+						<article class="evo-post post evo-single evo-cat-color evo-standart-a post-1246 type-post status-publish format-standard has-post-thumbnail hentry category-research" itemscope="itemscope" itemtype="http://schema.org/Article" data-catcolor="#999999">
+							<div class="evo-post-header evo-single-bottom">
+								<div class="evo-post-meta top">
+									
+			<div class="evo-post-cat">
+				<a href="http://pltf.ru/category/research/">
+				Исследования
+				</a>
+			</div>
+											</div><!-- evo-post-meta -->
+								<h1 class="evo-entry-title evo-sticky-title" itemprop="name headline">Интернет и общество: реальные и социально сконструированные угрозы.</h1>								<div class="evo-post-meta">
+									
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2017/04/18/internet-i-obshestvo/">
+						2 года назад
+					</a>
+				</div>
+												</div><!-- evo-post-meta -->
+							</div><!-- evo-post-header -->
+							<div class="evo-post-image evo-single-bottom lazy-thumb">
+								
+		<a href="http://pltf.ru/wp-content/uploads/2017/04/12-Tech-Companies-with-Flexible-Jobs-for-You.jpg" class="evo-zoom-enable">
+			<div class="evo-zoom"><i class="fa fa-plus"></i></div>
+			<img src="http://pltf.ru/wp-content/uploads/2017/04/12-Tech-Companies-with-Flexible-Jobs-for-You-750x530.jpg"  alt="Интернет и общество: реальные и социально сконструированные угрозы."/>
+		</a><!-- evo-zoom-enable -->			<figcaption class="featured_image_credit">Social media marketing business concept</figcaption>
+									</div><!-- evo-post-image -->
+															<div class="evo-entry-content entry-content">
+							<p><a href="http://pltf.ru/wp-content/uploads/2017/04/Платформа_Презентация_Интернет_18.04-1.pdf">Исследование &#171;Интернет и общество: реальные и социально сконструированные угрозы&#187;.</a>
+<p>Центр социального проектирования «Платформа» представляет результаты социологического исследования «Интернет и общество: реальные и социально сконструированные угрозы». Его задача &#8212; изучить<strong> целесообразность ограничений интернета</strong> в связи с общественным резонансом вокруг «групп смерти» в социальных сетях. Основной вывод &#8212; причина подростковых самоубийств <strong>не в социальных сетях, а в отношениях в семье</strong>, ограничения интернета не помогут решить данную проблему.
+<p>Всероссийский онлайн-опрос населения проводился в марте-апреле 2017 г. В нем приняли участие 2189 респондентов. Количественные данные дополнены экспертными оценками, полученными в результате глубинных интервью с профильными специалистами (антропологи, социологи, детские психологи, суицидологи, специалисты в области интернет-технологий, журналисты и общественные активисты).
+<p>Исследование выявило, что подавляющая часть <strong>населения положительно относится к существованию интернета (92%)</strong>, считает его одним из лучших изобретений человечества (38%) и видит больше плюсов, чем минусов (54%). Только 1% опрошенных высказали резко отрицательную позицию.
+<p>Почти 2/3 респондентов одобряют возможность детей пользоваться интернетом. При этом, с возрастом доля сторонников растет. В возрастной категории 18-24 года положительно высказались 60% опрошенных, 35-44 лет– 76%, 45-59 лет – 77%, среди тех, кто старше 60, &#8212; 82% опрошенных.  Возможно, это связано с тем, что 75% респондентов считают &#8212; интернет способствует повышению уровнять образования у детей.
+<p><strong>Роль государства</strong> по мнению подавляющего числа респондентов (79%) должна заключаться в борьбе с запрещенным контентом, а не в контроле за интернетом в целом. За формирование списка интернет-ресурсов, одобренных государством, по примеру Китая высказались всего 39%. 53% с таким предложением не согласились.
+<p>За наделение государства правом получать доступ к любым личным страницам пользователей, высказалось 17% участников опроса, против – 79%. 53% опрошенных считают, что существенный <strong>контроль за поведением граждан в интернете не приведет к снижению числа преступлений</strong>, так как эта проблема зависит от других факторов.
+<p>По мнению опрошенных экспертов, существенное ограничение интернета технически невозможно. Подобные попытки приведут к тому, что активная часть пользователей будет искать пути обхода блокировки. Ключевые риски будут связаны с ростом социального недовольства среди молодежи, усложнением мониторинга социальных явлений в обществе.
+<p>Мнение экспертов подтверждает позиция опрашиваемых респондентов. Их существенная доля (66%) полагает, что вводить на государственном уровне ограничения на доступ в интернет для детей и подростков <strong>бессмысленно</strong> – они все равно найдут то, что ищут. При этом общество (82% опрошенных) возлагает ответственность за то, какие страницы просматривает ребенок в интернете, на родителей. Если на государственном уровне будут введены контроль или ограничения по просмотру страниц в  интернете, 38% станут искать обходные пути. Чем моложе респонденты, тем большую готовность  они демонстрируют: среди тех, кому 18-24 года – 62%, 25-34 – 51%, 35-44 – 41%, 45-59 – 27%, 60 лет и старше – 23%.
+<p>В то же время родители не готовы сами применять модель запрета интернета. Основной выход они видят в <strong>разъяснительных действиях – 81% поговорил бы с ребенком, выслушал его, помог советом</strong>. Немногие стали бы следить за тем, какие страницы посещает ребенок, 11% &#8212; стали бы следить тайно, 24% &#8212; открыто, предупредив ребенка.
+<p>Результаты опроса населения и экспертов говорят о том, что активная информационная повестка в отношении «групп смерти» повлияла на желание респондентов ввести ограничения в интернет-пространство. Однако главным фактором, который может уберечь детей от суицидов, по мнению населения и экспертов является <strong>здоровая семейная обстановка</strong> и внимание родителей к детским проблемам.
+<p>Отношения в семье по мнению респондентов (74% опрошенных) и взаимоотношения со сверстниками (61% опрошенных) становятся основными причинами суицидального поведения подростков. Мнение населения в целом совпадает с позицией экспертного сообщества. Как отмечают опрошенные психологи, <strong>наличие долговременной депрессии, </strong>вызванной обозначенными выше причинами, делает возможным решение об уходе из жизни. «Довести человека до самоубийства через интернет невозможно. Чтобы человек совершил суицид, должны быть события в реальной жизни»<em>, </em>говорит один из экспертов (психолог).
+<p>Роль интернета как такового и «пабликов смерти» как интернет-фактора оцениваются населением и экспертами как низкая. Чем моложе пользователи, тем меньше среди них согласно с утверждением, что интернет и группы в социальных сетях могут повлиять на совершение суицидов. Так, среди опрошенных в возрасте 18-24 только 24% назвали интернет среди возможных факторов, влияющих на суицидальное поведение (данный ответ стоит на шестом месте среди предложенных девяти вариантов). Интернет как единственный фактор отметили всего 3% опрошенных.
+<p>Проведенное исследование позволяет сделать вывод о том, что ограничения не приведут ни к решению проблемы подростковых суицидов, ни к ее существенному смягчению. В то же время введение государством контроля или ограничений в интернете способно породить целый <strong>ряд неуправляемых рисков</strong>. В их числе &#8212; <strong>вытеснение проблем в офлайн</strong>.
+<p>Ключевые решения проблемы подростковых суицидов лежат в области улучшения отношений в российских семьях. При этом отмечается <strong>необходимость повышения интернет-грамотности</strong> &#8212; как у родителей, так и у детей.
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Как вы относитесь к существованию интернета? </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="710"><strong> </strong></td>
+<td width="268"><strong>Все опрошенные</strong></td>
+</tr>
+<tr>
+<td width="710">Положительно, это одно из лучших изобретений человечества</td>
+<td width="268"><strong>38</strong></td>
+</tr>
+<tr>
+<td width="710">Плюсов от наличия интернета больше, чем минусов</td>
+<td width="268"><strong>54</strong></td>
+</tr>
+<tr>
+<td width="710">Минусов от наличия интернета больше, чем плюсов</td>
+<td width="268"><strong>3</strong></td>
+</tr>
+<tr>
+<td width="710">Отрицательно, лучше бы его не было</td>
+<td width="268"><strong>1</strong></td>
+</tr>
+<tr>
+<td width="710">Затрудняюсь ответить</td>
+<td width="268"><strong>3</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="7" width="978"><strong>Как вы относитесь к тому, что у детей сейчас есть возможность пользоваться интернетом? </strong>(закрытый вопрос, один ответ, %)</td>
+</tr>
+<tr>
+<td width="328">&nbsp;</td>
+<td width="148"><strong>Все опрошенные</strong></td>
+<td width="108">18-24
+<p>года</td>
+<td width="99">25-34
+<p>года</td>
+<td width="99">35-44
+<p>года</td>
+<td width="95">45-59
+<p>лет</td>
+<td width="102">60 лет и
+<p>старше</td>
+</tr>
+<tr>
+<td width="328">Положительно</td>
+<td width="148"><strong>29</strong></td>
+<td width="108">22</td>
+<td width="99">24</td>
+<td width="99">27</td>
+<td width="95">29</td>
+<td width="102">42</td>
+</tr>
+<tr>
+<td width="328">Скорее положительно</td>
+<td width="148"><strong>44</strong></td>
+<td width="108">38</td>
+<td width="99">42</td>
+<td width="99">49</td>
+<td width="95">48</td>
+<td width="102">41</td>
+</tr>
+<tr>
+<td width="328">Скорее отрицательно</td>
+<td width="148"><strong>16</strong></td>
+<td width="108">22</td>
+<td width="99">19</td>
+<td width="99">13</td>
+<td width="95">17</td>
+<td width="102">12</td>
+</tr>
+<tr>
+<td width="328">Отрицательно</td>
+<td width="148"><strong>4</strong></td>
+<td width="108">7</td>
+<td width="99">7</td>
+<td width="99">5</td>
+<td width="95">3</td>
+<td width="102">2</td>
+</tr>
+<tr>
+<td width="328">Мне все равно</td>
+<td width="148"><strong>2</strong></td>
+<td width="108">8</td>
+<td width="99">4</td>
+<td width="99">1</td>
+<td width="95">1</td>
+<td width="102">1</td>
+</tr>
+<tr>
+<td width="328">Затрудняюсь ответить</td>
+<td width="148"><strong>4</strong></td>
+<td width="108">3</td>
+<td width="99">4</td>
+<td width="99">5</td>
+<td width="95">3</td>
+<td width="102">3</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="979">
+<tbody>
+<tr>
+<td colspan="2" width="979"><strong>Как вы считаете, возможность пользоваться интернетом способствует повышению уровня образования у детей? </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="720"><strong> </strong></td>
+<td width="259"><strong>Все опрошенные</strong></td>
+</tr>
+<tr>
+<td width="720">Да, т.к. можно узнать любую дополнительную информацию</td>
+<td width="259"><strong>75</strong></td>
+</tr>
+<tr>
+<td width="720">Нет, все необходимое можно узнать в школе и учебниках</td>
+<td width="259"><strong>17</strong></td>
+</tr>
+<tr>
+<td width="720">Затрудняюсь ответить</td>
+<td width="259"><strong>8</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Насколько вы согласны или не согласны с каждым из утверждений? Государство должно усилить контроль не за интернетом в целом, а только за теми провайдерами, которые размещают информацию, запрещенную к размещению  законодательством РФ  </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="709"><strong> </strong></td>
+<td width="269"><strong> </strong><strong>Все опрошенные</strong><strong>  </strong></td>
+</tr>
+<tr>
+<td width="709">Согласен</td>
+<td width="269"><strong>59</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее согласен</td>
+<td width="269"><strong>20</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее не согласен</td>
+<td width="269"><strong>6</strong></td>
+</tr>
+<tr>
+<td width="709">Не согласен</td>
+<td width="269"><strong>10</strong></td>
+</tr>
+<tr>
+<td width="709">Затрудняюсь ответить</td>
+<td width="269"><strong>5</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Насколько вы согласны или не согласны с каждым из утверждений? Государство должно запретить  доступ в интернет детям до 14 лет </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong>
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="709"><strong> </strong></td>
+<td width="269"><strong>Все опрошенные</strong><strong>  </strong></td>
+</tr>
+<tr>
+<td width="709">Согласен</td>
+<td width="269"><strong>28</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее согласен</td>
+<td width="269"><strong>20</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее не согласен</td>
+<td width="269"><strong>20</strong></td>
+</tr>
+<tr>
+<td width="709">Не согласен</td>
+<td width="269"><strong>27</strong></td>
+</tr>
+<tr>
+<td width="709">Затрудняюсь ответить</td>
+<td width="269"><strong>5</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Насколько вы согласны или не согласны с каждым из утверждений? Государство должно иметь право получать непосредственный доступ к любым личным  страницам (в социальных сетях, почте и т.п.) пользователей интернета </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="709"><strong> </strong></td>
+<td width="269"><strong>Все опрошенные</strong><strong>   </strong></td>
+</tr>
+<tr>
+<td width="709">Согласен</td>
+<td width="269"><strong>8</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее согласен</td>
+<td width="269"><strong>9</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее не согласен</td>
+<td width="269"><strong>18</strong></td>
+</tr>
+<tr>
+<td width="709">Не согласен</td>
+<td width="269"><strong>61</strong></td>
+</tr>
+<tr>
+<td width="709">Затрудняюсь ответить</td>
+<td width="269"><strong>4</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Насколько вы согласны или не согласны с каждым из утверждений? На государственном уровне бессмысленно ограничивать доступ в интернет детей и подростков,  они все равно найдут то, что ищут </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="709"><strong> </strong></td>
+<td width="269"><strong> </strong><strong>Все опрошенные</strong><strong>  </strong></td>
+</tr>
+<tr>
+<td width="709">Согласен</td>
+<td width="269"><strong>43</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее согласен</td>
+<td width="269"><strong>24</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее не согласен</td>
+<td width="269"><strong>12</strong></td>
+</tr>
+<tr>
+<td width="709">Не согласен</td>
+<td width="269"><strong>15</strong></td>
+</tr>
+<tr>
+<td width="709">Затрудняюсь ответить</td>
+<td width="269"><strong>6</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Насколько вы согласны или не согласны с каждым из утверждений? Ответственность за то, какие страницы просматривает в интернете ребенок в первую очередь лежит на родителях </strong>(закрытый вопрос, один ответ, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="709"><strong> </strong></td>
+<td width="269"><strong> </strong><strong>Все опрошенные</strong><strong>  </strong></td>
+</tr>
+<tr>
+<td width="709">Согласен</td>
+<td width="269"><strong>64</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее согласен</td>
+<td width="269"><strong>18</strong></td>
+</tr>
+<tr>
+<td width="709">Скорее не согласен</td>
+<td width="269"><strong>7</strong></td>
+</tr>
+<tr>
+<td width="709">Не согласен</td>
+<td width="269"><strong>7</strong></td>
+</tr>
+<tr>
+<td width="709">Затрудняюсь ответить</td>
+<td width="269"><strong>3</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="978">
+<tbody>
+<tr>
+<td colspan="2" width="978"><strong>Давайте представим такую ситуацию: вы вдруг увидели, что ваш ребенок зашел на сайт, который вы считает опасным для его эмоционального состояния, нравственного развития.  Что бы вы предприняли в первую очередь? </strong>(закрытый вопрос, не более двух ответов, %)
+<p><strong> </strong></td>
+</tr>
+<tr>
+<td width="710"><strong> </strong></td>
+<td width="268"><strong>Все опрошенные</strong></td>
+</tr>
+<tr>
+<td width="710">Поговорил бы с ребенком, выслушал его, помог советом</td>
+<td width="268"><strong>81</strong></td>
+</tr>
+<tr>
+<td width="710">Стал(а) бы открыто (предупредив ребенка) следить за теми страницами, на которые он ходит</td>
+<td width="268"><strong>24</strong></td>
+</tr>
+<tr>
+<td width="710">Написал(а) бы жалобу на ресурс, который размещает подобную информацию</td>
+<td width="268"><strong>15</strong></td>
+</tr>
+<tr>
+<td width="710">Стал(а) бы тайно следить за теми страницами, на которые он ходит</td>
+<td width="268"><strong>11</strong></td>
+</tr>
+<tr>
+<td width="710">Запретил(а) бы пользоваться интернетом</td>
+<td width="268"><strong>8</strong></td>
+</tr>
+<tr>
+<td width="710">Обратился(ась) бы в правоохранительные органы</td>
+<td width="268"><strong>6</strong></td>
+</tr>
+<tr>
+<td width="710">Ничего бы не стал(а) делать</td>
+<td width="268"><strong>1</strong></td>
+</tr>
+<tr>
+<td width="710">Затрудняюсь ответить</td>
+<td width="268"><strong>2</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<table width="989">
+<tbody>
+<tr>
+<td colspan="7" width="989"><strong>В последнее время в СМИ обсуждается тема детских суицидов, которые в том числе связывают с влиянием интернета. Как вы считаете, что в наибольшей степени влияет на подростковые суициды? </strong>(закрытый вопрос, не более трех ответов, %)</td>
+</tr>
+<tr>
+<td width="436">&nbsp;</td>
+<td width="156"><strong>Все опрошенные</strong></td>
+<td width="99">18-24 года</td>
+<td width="85">25-34 года</td>
+<td width="71">35-44 года</td>
+<td width="71">45-59 лет</td>
+<td width="71">60 лет и старше</td>
+</tr>
+<tr>
+<td width="436">Семейная обстановка, отношения с родителями</td>
+<td width="156"><strong>74</strong></td>
+<td width="99">82</td>
+<td width="85">80</td>
+<td width="71">75</td>
+<td width="71">70</td>
+<td width="71">69</td>
+</tr>
+<tr>
+<td width="436">Взаимоотношения со сверстниками</td>
+<td width="156"><strong>61</strong></td>
+<td width="99">67</td>
+<td width="85">70</td>
+<td width="71">67</td>
+<td width="71">55</td>
+<td width="71">53</td>
+</tr>
+<tr>
+<td width="436">Группы в социальных сетях, интернет</td>
+<td width="156"><strong>36</strong></td>
+<td width="99">24</td>
+<td width="85">32</td>
+<td width="71">35</td>
+<td width="71">42</td>
+<td width="71">39</td>
+</tr>
+<tr>
+<td width="436">Несчастная любовь</td>
+<td width="156"><strong>28</strong></td>
+<td width="99">39</td>
+<td width="85">34</td>
+<td width="71">26</td>
+<td width="71">23</td>
+<td width="71">25</td>
+</tr>
+<tr>
+<td width="436">Желание попробовать что-то необычное и малопонятное</td>
+<td width="156"><strong>25</strong></td>
+<td width="99">19</td>
+<td width="85">21</td>
+<td width="71">26</td>
+<td width="71">30</td>
+<td width="71">25</td>
+</tr>
+<tr>
+<td width="436">Отсутствие личных перспектив</td>
+<td width="156"><strong>18</strong></td>
+<td width="99">30</td>
+<td width="85">24</td>
+<td width="71">18</td>
+<td width="71">13</td>
+<td width="71">13</td>
+</tr>
+<tr>
+<td width="436">Проблемы в учебе</td>
+<td width="156"><strong>16</strong></td>
+<td width="99">30</td>
+<td width="85">22</td>
+<td width="71">17</td>
+<td width="71">7</td>
+<td width="71">16</td>
+</tr>
+<tr>
+<td width="436">Проблемы со здоровьем</td>
+<td width="156"><strong>5</strong></td>
+<td width="99">7</td>
+<td width="85">6</td>
+<td width="71">3</td>
+<td width="71">4</td>
+<td width="71">6</td>
+</tr>
+<tr>
+<td width="436">Фильмы, музыка, книги</td>
+<td width="156"><strong>3</strong></td>
+<td width="99">3</td>
+<td width="85">2</td>
+<td width="71">2</td>
+<td width="71">4</td>
+<td width="71">4</td>
+</tr>
+<tr>
+<td width="436">Затрудняюсь ответить</td>
+<td width="156"><strong>4</strong></td>
+<td width="99">5</td>
+<td width="85">5</td>
+<td width="71">4</td>
+<td width="71">3</td>
+<td width="71">5</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<div class="none"><time class="date updated" datetime="2017-04-18" data-pubdate>Апр 18, 2017</time><span class="author vcard"><span class="fn">content_manager</span></span></div>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Поделиться:</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://pltf.ru/2017/04/18/internet-i-obshestvo/" data-a2a-title="Интернет и общество: реальные и социально сконструированные угрозы."><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_vk" href="https://www.addtoany.com/add_to/vk?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="VK" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_viber" href="https://www.addtoany.com/add_to/viber?linkurl=http%3A%2F%2Fpltf.ru%2F2017%2F04%2F18%2Finternet-i-obshestvo%2F&amp;linkname=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B8%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%3A%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B." title="Viber" rel="nofollow noopener" target="_blank"></a></div></div>							</div><!-- evo-entry-content -->
+											<div class="evo-post-tags evo-single-top">
+			<div class="evo-tags">
+							</div><!-- evo-tags -->
+					</div><!-- evo-post-tags -->
+								</article><!-- post -->
+					</div>
+									<div class="col-md-4 col-sm-12 evo-sidebar right evo-sticky">
+						<aside id="search-2" class="widget widget_search"><form method="get" role="search" class="evo-search-form" action="http://pltf.ru/">
+	<input type="search" class="form-control search_input" autocomplete="off" name="s" value="" placeholder="Искать">
+	<button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+</form><!-- ev -->
+<div class="evo-search-message">Введите ключевое слово для поиска и нажмите Enter</div>
+
+<div class="evo-search-tags evo-mobile-hidden">
+	<ul>
+		<li><a href='http://pltf.ru/tag/schneider-electric/' title='Schneider Electric Tag' class='schneider-electric'>Schneider Electric</a></li><li><a href='http://pltf.ru/tag/skills-klub-praktika/' title='skills-клуб «Практика» Tag' class='skills-klub-praktika'>skills-клуб «Практика»</a></li><li><a href='http://pltf.ru/tag/social-impact/' title='social impact Tag' class='social-impact'>social impact</a></li><li><a href='http://pltf.ru/tag/abbas-galljamov/' title='Аббас Галлямов Tag' class='abbas-galljamov'>Аббас Галлямов</a></li><li><a href='http://pltf.ru/tag/aleksandr-valov/' title='Александр Валов Tag' class='aleksandr-valov'>Александр Валов</a></li><li><a href='http://pltf.ru/tag/aleksandr-kudrjavcev/' title='Александр Кудрявцев Tag' class='aleksandr-kudrjavcev'>Александр Кудрявцев</a></li><li><a href='http://pltf.ru/tag/aleksandr-popadin/' title='Александр Попадин Tag' class='aleksandr-popadin'>Александр Попадин</a></li><li><a href='http://pltf.ru/tag/aleksej-ivanov/' title='Алексей Иванов Tag' class='aleksej-ivanov'>Алексей Иванов</a></li><li><a href='http://pltf.ru/tag/aleksej-kudrin/' title='Алексей Кудрин Tag' class='aleksej-kudrin'>Алексей Кудрин</a></li><li><a href='http://pltf.ru/tag/aleksej-kurtov/' title='Алексей Куртов Tag' class='aleksej-kurtov'>Алексей Куртов</a></li><li><a href='http://pltf.ru/tag/aleksej-maslov/' title='Алексей Маслов Tag' class='aleksej-maslov'>Алексей Маслов</a></li><li><a href='http://pltf.ru/tag/aleksej-novikov/' title='Алексей Новиков Tag' class='aleksej-novikov'>Алексей Новиков</a></li><li><a href='http://pltf.ru/tag/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%81%d0%b8%d0%bd%d0%b8%d1%86%d0%ba%d0%b8%d0%b9/' title='Алексей Синицкий Tag' class='%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%81%d0%b8%d0%bd%d0%b8%d1%86%d0%ba%d0%b8%d0%b9'>Алексей Синицкий</a></li><li><a href='http://pltf.ru/tag/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%84%d0%b8%d1%80%d1%81%d0%be%d0%b2/' title='Алексей Фирсов Tag' class='%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%84%d0%b8%d1%80%d1%81%d0%be%d0%b2'>Алексей Фирсов</a></li><li><a href='http://pltf.ru/tag/aleksej-chadaev/' title='Алексей Чадаев Tag' class='aleksej-chadaev'>Алексей Чадаев</a></li><li><a href='http://pltf.ru/tag/anatolij-hodorovskij/' title='Анатолий Ходоровский Tag' class='anatolij-hodorovskij'>Анатолий Ходоровский</a></li><li><a href='http://pltf.ru/tag/anatolij-chubajs/' title='Анатолий Чубайс Tag' class='anatolij-chubajs'>Анатолий Чубайс</a></li><li><a href='http://pltf.ru/tag/andrej-komarov/' title='Андрей Комаров Tag' class='andrej-komarov'>Андрей Комаров</a></li><li><a href='http://pltf.ru/tag/andrej-stas/' title='Андрей Стась Tag' class='andrej-stas'>Андрей Стась</a></li><li><a href='http://pltf.ru/tag/andrej-sharonov/' title='Андрей Шаронов Tag' class='andrej-sharonov'>Андрей Шаронов</a></li><li><a href='http://pltf.ru/tag/anna-klepikovskaja/' title='Анна Клепиковская Tag' class='anna-klepikovskaja'>Анна Клепиковская</a></li><li><a href='http://pltf.ru/tag/artem-genkin/' title='Артем Генкин Tag' class='artem-genkin'>Артем Генкин</a></li><li><a href='http://pltf.ru/tag/artem-gerasimenko/' title='Артем Герасименко Tag' class='artem-gerasimenko'>Артем Герасименко</a></li><li><a href='http://pltf.ru/tag/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/' title='бизнес Tag' class='%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81'>бизнес</a></li><li><a href='http://pltf.ru/tag/boris-akimov/' title='Борис Акимов Tag' class='boris-akimov'>Борис Акимов</a></li><li><a href='http://pltf.ru/tag/boris-zvarich/' title='Борис Зварич Tag' class='boris-zvarich'>Борис Зварич</a></li><li><a href='http://pltf.ru/tag/valerija-kasamara/' title='Валерия Касамара Tag' class='valerija-kasamara'>Валерия Касамара</a></li><li><a href='http://pltf.ru/tag/vasilij-burov/' title='Василий Буров Tag' class='vasilij-burov'>Василий Буров</a></li><li><a href='http://pltf.ru/tag/vasilij-gatov/' title='Василий Гатов Tag' class='vasilij-gatov'>Василий Гатов</a></li><li><a href='http://pltf.ru/tag/velikij-post/' title='Великий пост Tag' class='velikij-post'>Великий пост</a></li><li><a href='http://pltf.ru/tag/vladimir-mironov/' title='Владимир Миронов Tag' class='vladimir-mironov'>Владимир Миронов</a></li><li><a href='http://pltf.ru/tag/vladimir-rudakov/' title='Владимир Рудаков Tag' class='vladimir-rudakov'>Владимир Рудаков</a></li><li><a href='http://pltf.ru/tag/vladislav-shulaev/' title='Владислав Шулаев Tag' class='vladislav-shulaev'>Владислав Шулаев</a></li><li><a href='http://pltf.ru/tag/%d0%b3%d0%bb%d0%b5%d0%b1-%d1%87%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d0%be%d0%b2/' title='Глеб Черкасов Tag' class='%d0%b3%d0%bb%d0%b5%d0%b1-%d1%87%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d0%be%d0%b2'>Глеб Черкасов</a></li><li><a href='http://pltf.ru/tag/grushinskaja-konferencija/' title='Грушинская конференция Tag' class='grushinskaja-konferencija'>Грушинская конференция</a></li><li><a href='http://pltf.ru/tag/dan-medovnikov/' title='Дан Медовников Tag' class='dan-medovnikov'>Дан Медовников</a></li><li><a href='http://pltf.ru/tag/denis-kuzmin/' title='Денис Кузьмин Tag' class='denis-kuzmin'>Денис Кузьмин</a></li><li><a href='http://pltf.ru/tag/denis-podvojskij/' title='Денис Подвойский Tag' class='denis-podvojskij'>Денис Подвойский</a></li><li><a href='http://pltf.ru/tag/%d0%b4%d0%b5%d0%bd%d0%b8%d1%81-%d1%80%d0%b5%d0%b1%d1%80%d0%b8%d0%ba%d0%be%d0%b2/' title='Денис Ребриков Tag' class='%d0%b4%d0%b5%d0%bd%d0%b8%d1%81-%d1%80%d0%b5%d0%b1%d1%80%d0%b8%d0%ba%d0%be%d0%b2'>Денис Ребриков</a></li><li><a href='http://pltf.ru/tag/evgenij-kosolapov/' title='Евгений Косолапов Tag' class='evgenij-kosolapov'>Евгений Косолапов</a></li><li><a href='http://pltf.ru/tag/evgenij-kuznecov/' title='Евгений Кузнецов Tag' class='evgenij-kuznecov'>Евгений Кузнецов</a></li><li><a href='http://pltf.ru/tag/evgenij-sidorov/' title='Евгений Сидоров Tag' class='evgenij-sidorov'>Евгений Сидоров</a></li><li><a href='http://pltf.ru/tag/egor-holmogorov/' title='Егор Холмогоров Tag' class='egor-holmogorov'>Егор Холмогоров</a></li><li><a href='http://pltf.ru/tag/%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b0-%d0%ba%d1%83%d1%80%d0%b1%d0%b0%d0%bd%d0%b3%d0%b0%d0%bb%d0%b5%d0%b5%d0%b2%d0%b0/' title='Екатерина Курбангалеева Tag' class='%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b0-%d0%ba%d1%83%d1%80%d0%b1%d0%b0%d0%bd%d0%b3%d0%b0%d0%bb%d0%b5%d0%b5%d0%b2%d0%b0'>Екатерина Курбангалеева</a></li><li><a href='http://pltf.ru/tag/ekaterina-cherkasova/' title='Екатерина Черкасова Tag' class='ekaterina-cherkasova'>Екатерина Черкасова</a></li><li><a href='http://pltf.ru/tag/elena-omelchenko/' title='Елена Омельченко Tag' class='elena-omelchenko'>Елена Омельченко</a></li><li><a href='http://pltf.ru/tag/efim-frejdin/' title='Ефим Фрейдин Tag' class='efim-frejdin'>Ефим Фрейдин</a></li><li><a href='http://pltf.ru/tag/zdravoohranenie/' title='здравоохранение Tag' class='zdravoohranenie'>здравоохранение</a></li><li><a href='http://pltf.ru/tag/zigmund-bauman/' title='Зигмунд Бауман Tag' class='zigmund-bauman'>Зигмунд Бауман</a></li><li><a href='http://pltf.ru/tag/ivan-babickij/' title='Иван Бабицкий Tag' class='ivan-babickij'>Иван Бабицкий</a></li><li><a href='http://pltf.ru/tag/ivan-zasurskij/' title='Иван Засурский Tag' class='ivan-zasurskij'>Иван Засурский</a></li><li><a href='http://pltf.ru/tag/igor-agamirzjan/' title='Игорь Агамирзян Tag' class='igor-agamirzjan'>Игорь Агамирзян</a></li><li><a href='http://pltf.ru/tag/igor-rozanov/' title='Игорь Розанов Tag' class='igor-rozanov'>Игорь Розанов</a></li><li><a href='http://pltf.ru/tag/ilja-novohatskij/' title='Илья Новохатский Tag' class='ilja-novohatskij'>Илья Новохатский</a></li><li><a href='http://pltf.ru/tag/ilja-rodin/' title='Илья Родин Tag' class='ilja-rodin'>Илья Родин</a></li><li><a href='http://pltf.ru/tag/ilja-shtejnberg/' title='Илья Штейнберг Tag' class='ilja-shtejnberg'>Илья Штейнберг</a></li><li><a href='http://pltf.ru/tag/ilja-juzhanov/' title='Илья Южанов Tag' class='ilja-juzhanov'>Илья Южанов</a></li><li><a href='http://pltf.ru/tag/investicii/' title='инвестиции Tag' class='investicii'>инвестиции</a></li><li><a href='http://pltf.ru/tag/inna-rykova/' title='Инна Рыкова Tag' class='inna-rykova'>Инна Рыкова</a></li><li><a href='http://pltf.ru/tag/innovacii/' title='Инновации Tag' class='innovacii'>Инновации</a></li><li><a href='http://pltf.ru/tag/iosif-diskin/' title='Иосиф Дискин Tag' class='iosif-diskin'>Иосиф Дискин</a></li><li><a href='http://pltf.ru/tag/irina-irbitskaja/' title='Ирина Ирбитская Tag' class='irina-irbitskaja'>Ирина Ирбитская</a></li><li><a href='http://pltf.ru/tag/issledovanie/' title='исследование Tag' class='issledovanie'>исследование</a></li><li><a href='http://pltf.ru/tag/istorija/' title='история Tag' class='istorija'>история</a></li><li><a href='http://pltf.ru/tag/kitaj/' title='Китай Tag' class='kitaj'>Китай</a></li><li><a href='http://pltf.ru/tag/kolonka/' title='колонка Tag' class='kolonka'>колонка</a></li><li><a href='http://pltf.ru/tag/kommunikacii/' title='коммуникации Tag' class='kommunikacii'>коммуникации</a></li><li><a href='http://pltf.ru/tag/korporativnoe-upravlenie/' title='корпоративное управление Tag' class='korporativnoe-upravlenie'>корпоративное управление</a></li><li><a href='http://pltf.ru/tag/%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%b0/' title='культура Tag' class='%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%b0'>культура</a></li><li><a href='http://pltf.ru/tag/lev-lure/' title='Лев Лурье Tag' class='lev-lure'>Лев Лурье</a></li><li><a href='http://pltf.ru/tag/leonid-grigorev/' title='Леонид Григорьев Tag' class='leonid-grigorev'>Леонид Григорьев</a></li><li><a href='http://pltf.ru/tag/maksim-devjatkin/' title='Максим Девяткин Tag' class='maksim-devjatkin'>Максим Девяткин</a></li><li><a href='http://pltf.ru/tag/malye-territorii/' title='малые территории Tag' class='malye-territorii'>малые территории</a></li><li><a href='http://pltf.ru/tag/medi/' title='Меди Tag' class='medi'>Меди</a></li><li><a href='http://pltf.ru/tag/media/' title='Медиа Tag' class='media'>Медиа</a></li><li><a href='http://pltf.ru/tag/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0/' title='медицина Tag' class='%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0'>медицина</a></li><li><a href='http://pltf.ru/tag/%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d0%b6%d1%8c/' title='молодежь Tag' class='%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d0%b6%d1%8c'>молодежь</a></li><li><a href='http://pltf.ru/tag/%d0%bd%d0%b0%d1%83%d0%ba%d0%b0/' title='Наука Tag' class='%d0%bd%d0%b0%d1%83%d0%ba%d0%b0'>Наука</a></li><li><a href='http://pltf.ru/tag/nikolaj-maharadze/' title='Николай Махарадзе Tag' class='nikolaj-maharadze'>Николай Махарадзе</a></li><li><a href='http://pltf.ru/tag/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8/' title='Обзор недели Tag' class='%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8'>Обзор недели</a></li><li><a href='http://pltf.ru/tag/%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%be/' title='общество Tag' class='%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%be'>общество</a></li><li><a href='http://pltf.ru/tag/obshhestvo-dmitrij-lisicin/' title='Общество; Дмитрий Лисицин Tag' class='obshhestvo-dmitrij-lisicin'>Общество; Дмитрий Лисицин</a></li><li><a href='http://pltf.ru/tag/oleg-greshnev/' title='Олег Грешнев Tag' class='oleg-greshnev'>Олег Грешнев</a></li><li><a href='http://pltf.ru/tag/oleg-stepanov/' title='Олег Степанов Tag' class='oleg-stepanov'>Олег Степанов</a></li><li><a href='http://pltf.ru/tag/omsk/' title='Омск Tag' class='omsk'>Омск</a></li><li><a href='http://pltf.ru/tag/omskaja-oblast/' title='Омская область Tag' class='omskaja-oblast'>Омская область</a></li><li><a href='http://pltf.ru/tag/pavel-gudkov/' title='Павел Гудков Tag' class='pavel-gudkov'>Павел Гудков</a></li><li><a href='http://pltf.ru/tag/pavel-markelov/' title='Павел Маркелов Tag' class='pavel-markelov'>Павел Маркелов</a></li><li><a href='http://pltf.ru/tag/pavel-tepluhin/' title='Павел Теплухин Tag' class='pavel-tepluhin'>Павел Теплухин</a></li><li><a href='http://pltf.ru/tag/platformadao/' title='ПлатформаДао Tag' class='platformadao'>ПлатформаДао</a></li><li><a href='http://pltf.ru/tag/pmjef/' title='ПМЭФ Tag' class='pmjef'>ПМЭФ</a></li><li><a href='http://pltf.ru/tag/polina-rychalova/' title='Полина Рычалова Tag' class='polina-rychalova'>Полина Рычалова</a></li><li><a href='http://pltf.ru/tag/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0/' title='политика Tag' class='%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0'>политика</a></li><li><a href='http://pltf.ru/tag/%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d1%80%d1%8b%d0%bd%d0%be%d0%ba/' title='потребительский рынок Tag' class='%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d1%80%d1%8b%d0%bd%d0%be%d0%ba'>потребительский рынок</a></li><li><a href='http://pltf.ru/tag/raso/' title='РАСО Tag' class='raso'>РАСО</a></li><li><a href='http://pltf.ru/tag/revoljucija/' title='Революция Tag' class='revoljucija'>Революция</a></li><li><a href='http://pltf.ru/tag/%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d1%8b/' title='регионы Tag' class='%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d1%8b'>регионы</a></li><li><a href='http://pltf.ru/tag/reputacii-biznesa/' title='репутации бизнеса Tag' class='reputacii-biznesa'>репутации бизнеса</a></li><li><a href='http://pltf.ru/tag/ritejl/' title='ритейл Tag' class='ritejl'>ритейл</a></li><li><a href='http://pltf.ru/tag/roboty/' title='роботы Tag' class='roboty'>роботы</a></li><li><a href='http://pltf.ru/tag/rspp/' title='РСПП Tag' class='rspp'>РСПП</a></li><li><a href='http://pltf.ru/tag/selo-teriberka/' title='Село Териберка Tag' class='selo-teriberka'>Село Териберка</a></li><li><a href='http://pltf.ru/tag/sergej-zverev/' title='Сергей Зверев Tag' class='sergej-zverev'>Сергей Зверев</a></li><li><a href='http://pltf.ru/tag/sergej-kostarev/' title='Сергей Костарев Tag' class='sergej-kostarev'>Сергей Костарев</a></li><li><a href='http://pltf.ru/tag/sergej-shejhetov/' title='Сергей Шейхетов Tag' class='sergej-shejhetov'>Сергей Шейхетов</a></li><li><a href='http://pltf.ru/tag/skolkovo/' title='Сколково Tag' class='skolkovo'>Сколково</a></li><li><a href='http://pltf.ru/tag/stanislav-naumov/' title='Станислав Наумов Tag' class='stanislav-naumov'>Станислав Наумов</a></li><li><a href='http://pltf.ru/tag/stjuart-lisor/' title='Стюарт Лисор Tag' class='stjuart-lisor'>Стюарт Лисор</a></li><li><a href='http://pltf.ru/tag/%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8/' title='технологии Tag' class='%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8'>технологии</a></li><li><a href='http://pltf.ru/tag/tehnologicheskaja-volna/' title='Технологическая волна Tag' class='tehnologicheskaja-volna'>Технологическая волна</a></li><li><a href='http://pltf.ru/tag/fi/' title='ФИ Tag' class='fi'>ФИ</a></li><li><a href='http://pltf.ru/tag/cifrovizacija/' title='цифровизация Tag' class='cifrovizacija'>цифровизация</a></li><li><a href='http://pltf.ru/tag/csr/' title='ЦСР Tag' class='csr'>ЦСР</a></li><li><a href='http://pltf.ru/tag/jeduard-limonov/' title='Эдуард Лимонов Tag' class='jeduard-limonov'>Эдуард Лимонов</a></li><li><a href='http://pltf.ru/tag/%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0/' title='экономика Tag' class='%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0'>экономика</a></li><li><a href='http://pltf.ru/tag/jurij-saprykin/' title='Юрий Сапрыкин Tag' class='jurij-saprykin'>Юрий Сапрыкин</a></li>	</ul>
+</div><!-- evo-search-tags --></aside><aside id="weblizar_facebook_likebox-2" class="widget widget_weblizar_facebook_likebox"><div class="evo-widget-title"><h4 class="evo-title">Мы в Facebook</h4></div>		<style>
+		@media (max-width:767px) {
+			.fb_iframe_widget {
+				width: 100%;
+			}
+			.fb_iframe_widget span {
+				width: 100% !important;
+			}
+			.fb_iframe_widget iframe {
+				width: 100% !important;
+			}
+			._8r {
+				margin-right: 5px;
+				margin-top: -4px !important;
+			}
+		}
+		</style>
+        <div style="display:block;width:100%;float:left;overflow:hidden;margin-bottom:20px">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-like-box" style="background-color: auto;" data-small-header="true" data-height="211" data-href="https://www.facebook.com/csdplatforma/?fref=ts" data-show-border="true" data-show-faces="true" data-stream="false" data-width="327" data-force-wall="false"></div>
+			<div style="display:none;">Facebook By Weblizar Powered By Weblizar</div>
+		</div>
+        </aside>
+		<aside id="garage_latest_posts_widget-3" class="widget evo-recent-posts">
+			<div class="evo-widget-title"><h4 class="evo-title">Актуальное</h4></div>
+							<div class="evo-widget-inner">
+					<div class="evo-recent-post-style-a">
+						<div class="evo-small-list">
+							<ul class="recent-posts style-1 with-number">
+															<article class="evo-post post post-4967 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-issledovanie tag-skolkovo" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/09/4-105x75.jpg"  alt="Теневой рынок алкогольной продукции: структура, тенденции, последствия"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/" title="Теневой рынок алкогольной продукции: структура, тенденции, последствия">Теневой рынок алкогольной продукции: структура, тенденции, последствия</a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/">
+						2 недели назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+															<article class="evo-post post post-4925 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-61 tag-roboty" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/08/ex-machina-wallpapers-29535-8880509-105x75.jpg"  alt="О чем говорят роботы?"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/" title="О чем говорят роботы?">О чем говорят роботы?</a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/">
+						1 месяц назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+															<article class="evo-post post post-4905 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-artem-gerasimenko" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/08/Local-sports-team-Header-105x75.jpg"  alt="Осознание, признание, продвижение.  Как волонтерские спортсообщества меняют социальную среду"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/" title="Осознание, признание, продвижение.  Как волонтерские спортсообщества меняют социальную среду">Осознание, признание, продвижение. <br /><span style="font-size:70%"> Как волонтерские спортсообщества меняют социальную среду</span></a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/">
+						1 месяц назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+														</ul>
+						</div>
+					</div><!-- widget-inner -->
+				</div><!-- widget-inner -->
+			
+		</aside>
+		<aside id="garage_ads_widget-2" class="widget evo-banner-widget"><div class="evo-widget-title"><h4 class="evo-title">О Платформе</h4></div><div class="evo-widget-inner"><div class="evo-banner"><a href="http://pltf.ru/platforma/about/" target="_blank"><img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1-1-1024x328.png" alt="ads" /></a></div></div></aside><aside id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><div class="evo-widget-title"><h4 class="evo-title">Рассылка</h4></div><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3083 mc4wp-form-theme mc4wp-form-theme-red" method="post" data-id="3083" data-name="Подписка" ><div class="mc4wp-form-fields"><p style="margin-top:-20px">
+	<label>Подпишитесь, чтобы узнавать наши новости: </label>
+	<input type="email" name="EMAIL" placeholder="Ваш e-mail адрес" required />
+</p>
+
+<p>
+	<input type="submit" value="Подписаться" />
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1569347831" /><input type="hidden" name="_mc4wp_form_id" value="3083" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></aside>				</div><!-- wpb_column -->
+							</div><!-- row -->
+			</div><!-- container -->
+										<div class="container">
+						<div class="evo-post-directions">
+						<div class="prev-post">
+				<a href="http://pltf.ru/2017/04/13/golos-molodezhi/" style="background-image: url(http://pltf.ru/wp-content/uploads/2017/04/12615_original-555x350.jpg);">
+					<span>Пред.</span>
+					<h6 class="evo-entry-title">«Мы вжимали голову в плечи, пока по ней долбили молотком»</h6>
+				</a>
+			</div><!-- prev-post -->
+									<div class="next-post">
+				<a href="http://pltf.ru/2017/04/20/issledovateli-ne-soglasilis/" style="background-image: url();">
+					<span>След.</span>
+					<h6 class="evo-entry-title">Исследователи не согласились с опасностью «групп смерти».</h6>
+				</a>
+			</div><!-- next-post -->
+					</div><!-- evo-post-directions -->
+					</div>
+			
+	</div><!-- evo-main -->
+<footer class="evo-footer light">
+	<div class="container">
+		<div class="evo-footer-sidebar">
+			<div class="row">
+								<div class="col-md-4 col-sm-12 col-xs-12">
+					
+		<aside id="garage_latest_posts_widget-2" class="widget evo-recent-posts">
+			<div class="evo-widget-title"><h4 class="evo-title">Последние публикации</h4></div>
+							<div class="evo-widget-inner">
+					<div class="evo-recent-post-style-a">
+						<div class="evo-small-list">
+							<ul class="recent-posts style-1 with-number">
+															<article class="evo-post post post-4967 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-issledovanie tag-skolkovo" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/09/4-105x75.jpg"  alt="Теневой рынок алкогольной продукции: структура, тенденции, последствия"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/" title="Теневой рынок алкогольной продукции: структура, тенденции, последствия">Теневой рынок алкогольной продукции: структура, тенденции, последствия</a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/09/13/tenevoj-rynok-alkogolnoj-produkcii-struktura-tendencii-posledstvija/">
+						2 недели назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+															<article class="evo-post post post-4925 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-61 tag-roboty" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/08/ex-machina-wallpapers-29535-8880509-105x75.jpg"  alt="О чем говорят роботы?"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/" title="О чем говорят роботы?">О чем говорят роботы?</a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/08/21/o-chem-govorjat-roboty/">
+						1 месяц назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+															<article class="evo-post post post-4905 type-post status-publish format-standard has-post-thumbnail hentry category-aktualnoe tag-artem-gerasimenko" itemscope="itemscope" itemtype="http://schema.org/Article">
+									<figure class="evo-post-image lazy-thumb">
+										<a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/">
+											<img src="http://pltf.ru/wp-content/uploads/2019/08/Local-sports-team-Header-105x75.jpg"  alt="Осознание, признание, продвижение.  Как волонтерские спортсообщества меняют социальную среду"/>										</a>
+									</figure>
+									<div class="evo-post-body">
+										<h3 class="evo-entry-title"><a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/" title="Осознание, признание, продвижение.  Как волонтерские спортсообщества меняют социальную среду">Осознание, признание, продвижение. <br /><span style="font-size:70%"> Как волонтерские спортсообщества меняют социальную среду</span></a></h3>										<div class="evo-post-meta">
+											
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2019/08/14/osoznanie-priznanie-prodvizhenie-br-span-style-font-size-70-kak-volonterskie-sportivnye-soobshhestva-menjajut-socialnuju-sredu-span/">
+						1 месяц назад
+					</a>
+				</div>
+														</div><!-- evo-post-meta -->
+									</div><!-- evo-post-body -->
+								</article><!-- post -->
+														</ul>
+						</div>
+					</div><!-- widget-inner -->
+				</div><!-- widget-inner -->
+			
+		</aside>
+						</div>
+				<div class="col-md-4 col-sm-12 col-xs-12">
+					<aside id="wpgmza_map_widget-2" class="widget wpgmza_widget"><div class="evo-widget-title"><h4 class="evo-title">Схема проезда</h4></div>
+                
+            <div id="wpgmza_map"  style="display:block; overflow:auto; width:100%; height:303px; margin-left:auto !important; margin-right:auto; !important; align:center;">
+            
+            </div>
+        </aside>				</div>
+				<div class="col-md-4 col-sm-12 col-xs-12">
+					<aside id="text-5" class="widget widget_text"><div class="evo-widget-title"><h4 class="evo-title">Контакты</h4></div>			<div class="textwidget"><p>тел.: +7 (495) 123-39-89</p>
+<p>e-mail: info@pltf.ru</p>
+<p>адрес: Берсеневский переулок д.2, стр.1</p>
+</div>
+		</aside><aside id="mc4wp_form_widget-3" class="widget widget_mc4wp_form_widget"><div class="evo-widget-title"><h4 class="evo-title">Рассылка</h4></div><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-3083 mc4wp-form-theme mc4wp-form-theme-red" method="post" data-id="3083" data-name="Подписка" ><div class="mc4wp-form-fields"><p style="margin-top:-20px">
+	<label>Подпишитесь, чтобы узнавать наши новости: </label>
+	<input type="email" name="EMAIL" placeholder="Ваш e-mail адрес" required />
+</p>
+
+<p>
+	<input type="submit" value="Подписаться" />
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1569347831" /><input type="hidden" name="_mc4wp_form_id" value="3083" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></aside>				</div>
+							</div>
+		</div><!-- evo-footer-sidebar -->
+		<div class="evo-footer-content">
+			<div class="evo-footer-logo">
+										<div class="evo-brand-logo">
+							<a href="http://pltf.ru/">
+								<img src="http://pltf.ru/wp-content/uploads/2017/09/Platform_logos1.png" alt="Платформа"/>
+							</a>
+						</div>
+												</div>
+							<div class="evo-footer-social">
+					<ul>
+														<li>
+																		<a href="https://www.facebook.com/csdplatforma/" 
+									target=&quot;_blank >
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span></a>
+								</li>
+															<li>
+																		<a href="https://www.telegram.me/platforma_channel" 
+									target=&quot;_blank >
+									<i class="fa fa-linkedin"></i>
+									<span>Telegram</span></a>
+								</li>
+												</ul>
+				</div><!-- evo-footer-social -->
+					</div><!-- evo-footer-content -->
+	</div><!-- container -->
+	<div class="evo-footer-copyright">
+		<div class="container">
+							<p>Платформа 2017</p>
+						<div class="evo-back-to-top"><a href="javasciprt:;"><i class="fa fa-chevron-up"></i></a></div>
+		</div><!-- container -->
+	</div><!-- evo-footer-copyright -->
+</footer><!-- evo-footer -->
+
+<div class="evo-search-holder">
+	<div id="evo-search-close">
+		<span class="evo-close"></span>
+	</div><!-- evo-close -->
+
+	<div class="evo-search-wrap">
+		<div class="evo-search-inner">
+			<div class="container">
+				
+				<form method="get" role="search" class="evo-search-form" action="http://pltf.ru/">
+	<input type="search" class="form-control search_input" autocomplete="off" name="s" value="" placeholder="Искать">
+	<button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+</form><!-- ev -->
+<div class="evo-search-message">Введите ключевое слово для поиска и нажмите Enter</div>
+
+<div class="evo-search-tags evo-mobile-hidden">
+	<ul>
+		<li><a href='http://pltf.ru/tag/schneider-electric/' title='Schneider Electric Tag' class='schneider-electric'>Schneider Electric</a></li><li><a href='http://pltf.ru/tag/skills-klub-praktika/' title='skills-клуб «Практика» Tag' class='skills-klub-praktika'>skills-клуб «Практика»</a></li><li><a href='http://pltf.ru/tag/social-impact/' title='social impact Tag' class='social-impact'>social impact</a></li><li><a href='http://pltf.ru/tag/abbas-galljamov/' title='Аббас Галлямов Tag' class='abbas-galljamov'>Аббас Галлямов</a></li><li><a href='http://pltf.ru/tag/aleksandr-valov/' title='Александр Валов Tag' class='aleksandr-valov'>Александр Валов</a></li><li><a href='http://pltf.ru/tag/aleksandr-kudrjavcev/' title='Александр Кудрявцев Tag' class='aleksandr-kudrjavcev'>Александр Кудрявцев</a></li><li><a href='http://pltf.ru/tag/aleksandr-popadin/' title='Александр Попадин Tag' class='aleksandr-popadin'>Александр Попадин</a></li><li><a href='http://pltf.ru/tag/aleksej-ivanov/' title='Алексей Иванов Tag' class='aleksej-ivanov'>Алексей Иванов</a></li><li><a href='http://pltf.ru/tag/aleksej-kudrin/' title='Алексей Кудрин Tag' class='aleksej-kudrin'>Алексей Кудрин</a></li><li><a href='http://pltf.ru/tag/aleksej-kurtov/' title='Алексей Куртов Tag' class='aleksej-kurtov'>Алексей Куртов</a></li><li><a href='http://pltf.ru/tag/aleksej-maslov/' title='Алексей Маслов Tag' class='aleksej-maslov'>Алексей Маслов</a></li><li><a href='http://pltf.ru/tag/aleksej-novikov/' title='Алексей Новиков Tag' class='aleksej-novikov'>Алексей Новиков</a></li><li><a href='http://pltf.ru/tag/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%81%d0%b8%d0%bd%d0%b8%d1%86%d0%ba%d0%b8%d0%b9/' title='Алексей Синицкий Tag' class='%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%81%d0%b8%d0%bd%d0%b8%d1%86%d0%ba%d0%b8%d0%b9'>Алексей Синицкий</a></li><li><a href='http://pltf.ru/tag/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%84%d0%b8%d1%80%d1%81%d0%be%d0%b2/' title='Алексей Фирсов Tag' class='%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d1%84%d0%b8%d1%80%d1%81%d0%be%d0%b2'>Алексей Фирсов</a></li><li><a href='http://pltf.ru/tag/aleksej-chadaev/' title='Алексей Чадаев Tag' class='aleksej-chadaev'>Алексей Чадаев</a></li><li><a href='http://pltf.ru/tag/anatolij-hodorovskij/' title='Анатолий Ходоровский Tag' class='anatolij-hodorovskij'>Анатолий Ходоровский</a></li><li><a href='http://pltf.ru/tag/anatolij-chubajs/' title='Анатолий Чубайс Tag' class='anatolij-chubajs'>Анатолий Чубайс</a></li><li><a href='http://pltf.ru/tag/andrej-komarov/' title='Андрей Комаров Tag' class='andrej-komarov'>Андрей Комаров</a></li><li><a href='http://pltf.ru/tag/andrej-stas/' title='Андрей Стась Tag' class='andrej-stas'>Андрей Стась</a></li><li><a href='http://pltf.ru/tag/andrej-sharonov/' title='Андрей Шаронов Tag' class='andrej-sharonov'>Андрей Шаронов</a></li><li><a href='http://pltf.ru/tag/anna-klepikovskaja/' title='Анна Клепиковская Tag' class='anna-klepikovskaja'>Анна Клепиковская</a></li><li><a href='http://pltf.ru/tag/artem-genkin/' title='Артем Генкин Tag' class='artem-genkin'>Артем Генкин</a></li><li><a href='http://pltf.ru/tag/artem-gerasimenko/' title='Артем Герасименко Tag' class='artem-gerasimenko'>Артем Герасименко</a></li><li><a href='http://pltf.ru/tag/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/' title='бизнес Tag' class='%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81'>бизнес</a></li><li><a href='http://pltf.ru/tag/boris-akimov/' title='Борис Акимов Tag' class='boris-akimov'>Борис Акимов</a></li><li><a href='http://pltf.ru/tag/boris-zvarich/' title='Борис Зварич Tag' class='boris-zvarich'>Борис Зварич</a></li><li><a href='http://pltf.ru/tag/valerija-kasamara/' title='Валерия Касамара Tag' class='valerija-kasamara'>Валерия Касамара</a></li><li><a href='http://pltf.ru/tag/vasilij-burov/' title='Василий Буров Tag' class='vasilij-burov'>Василий Буров</a></li><li><a href='http://pltf.ru/tag/vasilij-gatov/' title='Василий Гатов Tag' class='vasilij-gatov'>Василий Гатов</a></li><li><a href='http://pltf.ru/tag/velikij-post/' title='Великий пост Tag' class='velikij-post'>Великий пост</a></li><li><a href='http://pltf.ru/tag/vladimir-mironov/' title='Владимир Миронов Tag' class='vladimir-mironov'>Владимир Миронов</a></li><li><a href='http://pltf.ru/tag/vladimir-rudakov/' title='Владимир Рудаков Tag' class='vladimir-rudakov'>Владимир Рудаков</a></li><li><a href='http://pltf.ru/tag/vladislav-shulaev/' title='Владислав Шулаев Tag' class='vladislav-shulaev'>Владислав Шулаев</a></li><li><a href='http://pltf.ru/tag/%d0%b3%d0%bb%d0%b5%d0%b1-%d1%87%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d0%be%d0%b2/' title='Глеб Черкасов Tag' class='%d0%b3%d0%bb%d0%b5%d0%b1-%d1%87%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d0%be%d0%b2'>Глеб Черкасов</a></li><li><a href='http://pltf.ru/tag/grushinskaja-konferencija/' title='Грушинская конференция Tag' class='grushinskaja-konferencija'>Грушинская конференция</a></li><li><a href='http://pltf.ru/tag/dan-medovnikov/' title='Дан Медовников Tag' class='dan-medovnikov'>Дан Медовников</a></li><li><a href='http://pltf.ru/tag/denis-kuzmin/' title='Денис Кузьмин Tag' class='denis-kuzmin'>Денис Кузьмин</a></li><li><a href='http://pltf.ru/tag/denis-podvojskij/' title='Денис Подвойский Tag' class='denis-podvojskij'>Денис Подвойский</a></li><li><a href='http://pltf.ru/tag/%d0%b4%d0%b5%d0%bd%d0%b8%d1%81-%d1%80%d0%b5%d0%b1%d1%80%d0%b8%d0%ba%d0%be%d0%b2/' title='Денис Ребриков Tag' class='%d0%b4%d0%b5%d0%bd%d0%b8%d1%81-%d1%80%d0%b5%d0%b1%d1%80%d0%b8%d0%ba%d0%be%d0%b2'>Денис Ребриков</a></li><li><a href='http://pltf.ru/tag/evgenij-kosolapov/' title='Евгений Косолапов Tag' class='evgenij-kosolapov'>Евгений Косолапов</a></li><li><a href='http://pltf.ru/tag/evgenij-kuznecov/' title='Евгений Кузнецов Tag' class='evgenij-kuznecov'>Евгений Кузнецов</a></li><li><a href='http://pltf.ru/tag/evgenij-sidorov/' title='Евгений Сидоров Tag' class='evgenij-sidorov'>Евгений Сидоров</a></li><li><a href='http://pltf.ru/tag/egor-holmogorov/' title='Егор Холмогоров Tag' class='egor-holmogorov'>Егор Холмогоров</a></li><li><a href='http://pltf.ru/tag/%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b0-%d0%ba%d1%83%d1%80%d0%b1%d0%b0%d0%bd%d0%b3%d0%b0%d0%bb%d0%b5%d0%b5%d0%b2%d0%b0/' title='Екатерина Курбангалеева Tag' class='%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b0-%d0%ba%d1%83%d1%80%d0%b1%d0%b0%d0%bd%d0%b3%d0%b0%d0%bb%d0%b5%d0%b5%d0%b2%d0%b0'>Екатерина Курбангалеева</a></li><li><a href='http://pltf.ru/tag/ekaterina-cherkasova/' title='Екатерина Черкасова Tag' class='ekaterina-cherkasova'>Екатерина Черкасова</a></li><li><a href='http://pltf.ru/tag/elena-omelchenko/' title='Елена Омельченко Tag' class='elena-omelchenko'>Елена Омельченко</a></li><li><a href='http://pltf.ru/tag/efim-frejdin/' title='Ефим Фрейдин Tag' class='efim-frejdin'>Ефим Фрейдин</a></li><li><a href='http://pltf.ru/tag/zdravoohranenie/' title='здравоохранение Tag' class='zdravoohranenie'>здравоохранение</a></li><li><a href='http://pltf.ru/tag/zigmund-bauman/' title='Зигмунд Бауман Tag' class='zigmund-bauman'>Зигмунд Бауман</a></li><li><a href='http://pltf.ru/tag/ivan-babickij/' title='Иван Бабицкий Tag' class='ivan-babickij'>Иван Бабицкий</a></li><li><a href='http://pltf.ru/tag/ivan-zasurskij/' title='Иван Засурский Tag' class='ivan-zasurskij'>Иван Засурский</a></li><li><a href='http://pltf.ru/tag/igor-agamirzjan/' title='Игорь Агамирзян Tag' class='igor-agamirzjan'>Игорь Агамирзян</a></li><li><a href='http://pltf.ru/tag/igor-rozanov/' title='Игорь Розанов Tag' class='igor-rozanov'>Игорь Розанов</a></li><li><a href='http://pltf.ru/tag/ilja-novohatskij/' title='Илья Новохатский Tag' class='ilja-novohatskij'>Илья Новохатский</a></li><li><a href='http://pltf.ru/tag/ilja-rodin/' title='Илья Родин Tag' class='ilja-rodin'>Илья Родин</a></li><li><a href='http://pltf.ru/tag/ilja-shtejnberg/' title='Илья Штейнберг Tag' class='ilja-shtejnberg'>Илья Штейнберг</a></li><li><a href='http://pltf.ru/tag/ilja-juzhanov/' title='Илья Южанов Tag' class='ilja-juzhanov'>Илья Южанов</a></li><li><a href='http://pltf.ru/tag/investicii/' title='инвестиции Tag' class='investicii'>инвестиции</a></li><li><a href='http://pltf.ru/tag/inna-rykova/' title='Инна Рыкова Tag' class='inna-rykova'>Инна Рыкова</a></li><li><a href='http://pltf.ru/tag/innovacii/' title='Инновации Tag' class='innovacii'>Инновации</a></li><li><a href='http://pltf.ru/tag/iosif-diskin/' title='Иосиф Дискин Tag' class='iosif-diskin'>Иосиф Дискин</a></li><li><a href='http://pltf.ru/tag/irina-irbitskaja/' title='Ирина Ирбитская Tag' class='irina-irbitskaja'>Ирина Ирбитская</a></li><li><a href='http://pltf.ru/tag/issledovanie/' title='исследование Tag' class='issledovanie'>исследование</a></li><li><a href='http://pltf.ru/tag/istorija/' title='история Tag' class='istorija'>история</a></li><li><a href='http://pltf.ru/tag/kitaj/' title='Китай Tag' class='kitaj'>Китай</a></li><li><a href='http://pltf.ru/tag/kolonka/' title='колонка Tag' class='kolonka'>колонка</a></li><li><a href='http://pltf.ru/tag/kommunikacii/' title='коммуникации Tag' class='kommunikacii'>коммуникации</a></li><li><a href='http://pltf.ru/tag/korporativnoe-upravlenie/' title='корпоративное управление Tag' class='korporativnoe-upravlenie'>корпоративное управление</a></li><li><a href='http://pltf.ru/tag/%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%b0/' title='культура Tag' class='%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%b0'>культура</a></li><li><a href='http://pltf.ru/tag/lev-lure/' title='Лев Лурье Tag' class='lev-lure'>Лев Лурье</a></li><li><a href='http://pltf.ru/tag/leonid-grigorev/' title='Леонид Григорьев Tag' class='leonid-grigorev'>Леонид Григорьев</a></li><li><a href='http://pltf.ru/tag/maksim-devjatkin/' title='Максим Девяткин Tag' class='maksim-devjatkin'>Максим Девяткин</a></li><li><a href='http://pltf.ru/tag/malye-territorii/' title='малые территории Tag' class='malye-territorii'>малые территории</a></li><li><a href='http://pltf.ru/tag/medi/' title='Меди Tag' class='medi'>Меди</a></li><li><a href='http://pltf.ru/tag/media/' title='Медиа Tag' class='media'>Медиа</a></li><li><a href='http://pltf.ru/tag/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0/' title='медицина Tag' class='%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0'>медицина</a></li><li><a href='http://pltf.ru/tag/%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d0%b6%d1%8c/' title='молодежь Tag' class='%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d0%b6%d1%8c'>молодежь</a></li><li><a href='http://pltf.ru/tag/%d0%bd%d0%b0%d1%83%d0%ba%d0%b0/' title='Наука Tag' class='%d0%bd%d0%b0%d1%83%d0%ba%d0%b0'>Наука</a></li><li><a href='http://pltf.ru/tag/nikolaj-maharadze/' title='Николай Махарадзе Tag' class='nikolaj-maharadze'>Николай Махарадзе</a></li><li><a href='http://pltf.ru/tag/%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8/' title='Обзор недели Tag' class='%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8'>Обзор недели</a></li><li><a href='http://pltf.ru/tag/%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%be/' title='общество Tag' class='%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%be'>общество</a></li><li><a href='http://pltf.ru/tag/obshhestvo-dmitrij-lisicin/' title='Общество; Дмитрий Лисицин Tag' class='obshhestvo-dmitrij-lisicin'>Общество; Дмитрий Лисицин</a></li><li><a href='http://pltf.ru/tag/oleg-greshnev/' title='Олег Грешнев Tag' class='oleg-greshnev'>Олег Грешнев</a></li><li><a href='http://pltf.ru/tag/oleg-stepanov/' title='Олег Степанов Tag' class='oleg-stepanov'>Олег Степанов</a></li><li><a href='http://pltf.ru/tag/omsk/' title='Омск Tag' class='omsk'>Омск</a></li><li><a href='http://pltf.ru/tag/omskaja-oblast/' title='Омская область Tag' class='omskaja-oblast'>Омская область</a></li><li><a href='http://pltf.ru/tag/pavel-gudkov/' title='Павел Гудков Tag' class='pavel-gudkov'>Павел Гудков</a></li><li><a href='http://pltf.ru/tag/pavel-markelov/' title='Павел Маркелов Tag' class='pavel-markelov'>Павел Маркелов</a></li><li><a href='http://pltf.ru/tag/pavel-tepluhin/' title='Павел Теплухин Tag' class='pavel-tepluhin'>Павел Теплухин</a></li><li><a href='http://pltf.ru/tag/platformadao/' title='ПлатформаДао Tag' class='platformadao'>ПлатформаДао</a></li><li><a href='http://pltf.ru/tag/pmjef/' title='ПМЭФ Tag' class='pmjef'>ПМЭФ</a></li><li><a href='http://pltf.ru/tag/polina-rychalova/' title='Полина Рычалова Tag' class='polina-rychalova'>Полина Рычалова</a></li><li><a href='http://pltf.ru/tag/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0/' title='политика Tag' class='%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0'>политика</a></li><li><a href='http://pltf.ru/tag/%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d1%80%d1%8b%d0%bd%d0%be%d0%ba/' title='потребительский рынок Tag' class='%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d1%80%d1%8b%d0%bd%d0%be%d0%ba'>потребительский рынок</a></li><li><a href='http://pltf.ru/tag/raso/' title='РАСО Tag' class='raso'>РАСО</a></li><li><a href='http://pltf.ru/tag/revoljucija/' title='Революция Tag' class='revoljucija'>Революция</a></li><li><a href='http://pltf.ru/tag/%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d1%8b/' title='регионы Tag' class='%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d1%8b'>регионы</a></li><li><a href='http://pltf.ru/tag/reputacii-biznesa/' title='репутации бизнеса Tag' class='reputacii-biznesa'>репутации бизнеса</a></li><li><a href='http://pltf.ru/tag/ritejl/' title='ритейл Tag' class='ritejl'>ритейл</a></li><li><a href='http://pltf.ru/tag/roboty/' title='роботы Tag' class='roboty'>роботы</a></li><li><a href='http://pltf.ru/tag/rspp/' title='РСПП Tag' class='rspp'>РСПП</a></li><li><a href='http://pltf.ru/tag/selo-teriberka/' title='Село Териберка Tag' class='selo-teriberka'>Село Териберка</a></li><li><a href='http://pltf.ru/tag/sergej-zverev/' title='Сергей Зверев Tag' class='sergej-zverev'>Сергей Зверев</a></li><li><a href='http://pltf.ru/tag/sergej-kostarev/' title='Сергей Костарев Tag' class='sergej-kostarev'>Сергей Костарев</a></li><li><a href='http://pltf.ru/tag/sergej-shejhetov/' title='Сергей Шейхетов Tag' class='sergej-shejhetov'>Сергей Шейхетов</a></li><li><a href='http://pltf.ru/tag/skolkovo/' title='Сколково Tag' class='skolkovo'>Сколково</a></li><li><a href='http://pltf.ru/tag/stanislav-naumov/' title='Станислав Наумов Tag' class='stanislav-naumov'>Станислав Наумов</a></li><li><a href='http://pltf.ru/tag/stjuart-lisor/' title='Стюарт Лисор Tag' class='stjuart-lisor'>Стюарт Лисор</a></li><li><a href='http://pltf.ru/tag/%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8/' title='технологии Tag' class='%d1%82%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8'>технологии</a></li><li><a href='http://pltf.ru/tag/tehnologicheskaja-volna/' title='Технологическая волна Tag' class='tehnologicheskaja-volna'>Технологическая волна</a></li><li><a href='http://pltf.ru/tag/fi/' title='ФИ Tag' class='fi'>ФИ</a></li><li><a href='http://pltf.ru/tag/cifrovizacija/' title='цифровизация Tag' class='cifrovizacija'>цифровизация</a></li><li><a href='http://pltf.ru/tag/csr/' title='ЦСР Tag' class='csr'>ЦСР</a></li><li><a href='http://pltf.ru/tag/jeduard-limonov/' title='Эдуард Лимонов Tag' class='jeduard-limonov'>Эдуард Лимонов</a></li><li><a href='http://pltf.ru/tag/%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0/' title='экономика Tag' class='%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0'>экономика</a></li><li><a href='http://pltf.ru/tag/jurij-saprykin/' title='Юрий Сапрыкин Tag' class='jurij-saprykin'>Юрий Сапрыкин</a></li>	</ul>
+</div><!-- evo-search-tags -->				
+			</div><!-- container -->
+		</div><!-- evo-search-inner -->
+	</div><!-- evo-search-wrap -->
+</div><!-- evo-search-holder -->
+
+<div class="evo-trending-holder">
+	<div class="evo-trending-header">
+		<div class="evo-trending-title">Топ</div>
+		<div id="evo-trend-cl" class="evo-trending-close">
+			<span class="evo-close"></span>
+		</div><!-- evo-trending-close -->
+	</div><!-- evo-trending-header -->
+	<div class="evo-trending-wrap">
+		<div class="evo-trending-body">
+			<div class="evo-trending-posts">
+				<ul class="evo-slider" data-arrows="true" data-dots="false" data-speed="1000" data-autoplay="false" data-autospeed="2000" data-evofade="false" data-item="1" data-slidetoitem="1">
+										<li class="evo-post post evo-cat-color evo-image-filter evo-image-hover-b" data-catcolor="#d80020">
+						<figure class="evo-post-image evo-image-hover">
+							<a href="http://pltf.ru/2018/01/16/ideologija/">
+								<span></span>
+								<img src="http://pltf.ru/wp-content/uploads/2018/01/1239_hope-900x600.jpg"  alt="Идеология"/>							</a>
+						</figure>
+						<div class="evo-post-body">
+							<div class="evo-post-meta top">
+								
+			<div class="evo-post-cat">
+				<a href="http://pltf.ru/category/experts/%d0%ba%d0%be%d0%bb%d0%be%d0%bd%d0%ba%d0%b0/">
+				Колонка
+				</a>
+			</div>
+										</div><!-- evo-post-meta -->
+							<h3 class="evo-entry-title"><a href="http://pltf.ru/2018/01/16/ideologija/" title="Идеология">Идеология</a></h3>							<div class="evo-post-meta bottom">
+								
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2018/01/16/ideologija/">
+						2 года назад
+					</a>
+				</div>
+											</div><!-- evo-post-meta -->
+							<div class="evo-entry-content entry-content">
+								<p>Руководитель Центра социального проектирования «Платформа» Алексей Фирсов ведет работу над своей книгой «Тавро и хлыст», посвященную различным формам контроля за массовым сознанием. «Актуальные комментарии» продолжают серию публикаций автора с выдержками...</p>							</div><!-- evo-entry-content -->
+							
+		<div class="evo-read-more">
+			<a href="http://pltf.ru/2018/01/16/ideologija/">
+				Читать
+				<span><i class="fa fa-chevron-right"></i></span>
+			</a>
+		</div><!-- evo-read-more -->						</div><!-- evo-post-body -->
+					</li>
+										<li class="evo-post post evo-cat-color evo-image-filter evo-image-hover-b" data-catcolor="#d80020">
+						<figure class="evo-post-image evo-image-hover">
+							<a href="http://pltf.ru/2017/03/06/obshhestvo-kompromata-kak-otnositsja-k/">
+								<span></span>
+															</a>
+						</figure>
+						<div class="evo-post-body">
+							<div class="evo-post-meta top">
+								
+			<div class="evo-post-cat">
+				<a href="http://pltf.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/">
+				Без рубрики
+				</a>
+			</div>
+										</div><!-- evo-post-meta -->
+							<h3 class="evo-entry-title"><a href="http://pltf.ru/2017/03/06/obshhestvo-kompromata-kak-otnositsja-k/" title="Общество компромата: как относиться к расследованиям Навального.">Общество компромата: как относиться к расследованиям Навального.</a></h3>							<div class="evo-post-meta bottom">
+								
+				<div class="evo-post-date">
+					<a href="http://pltf.ru/2017/03/06/obshhestvo-kompromata-kak-otnositsja-k/">
+						3 года назад
+					</a>
+				</div>
+											</div><!-- evo-post-meta -->
+							<div class="evo-entry-content entry-content">
+								<p>Алексей Фирсов о событиях-провокаторах недели специально для Forbes.</p>							</div><!-- evo-entry-content -->
+							
+		<div class="evo-read-more">
+			<a href="http://pltf.ru/2017/03/06/obshhestvo-kompromata-kak-otnositsja-k/">
+				Читать
+				<span><i class="fa fa-chevron-right"></i></span>
+			</a>
+		</div><!-- evo-read-more -->						</div><!-- evo-post-body -->
+					</li>
+									</ul><!-- evo-slider -->
+			</div><!-- evo-trending-posts -->
+		</div><!-- evo-trending-body -->
+	</div><!-- evo-trending-wrap -->
+</div><!-- evo-trending-holder -->
+
+<svg class="evo-image-filter-effect" xmlns="http://www.w3.org/2000/svg">	
+    <filter id="duotone_redblue">
+        <feColorMatrix type="matrix" result="gray"
+            values="1 0 0 0 0
+                    1 0 0 0 0
+                    1 0 0 0 0
+                    0 0 0 1 0" >
+        </feColorMatrix>
+
+        <feComponentTransfer color-interpolation-filters="sRGB" result="duotone"> 
+            <feFuncR type="table" tableValues="0.00294117647058825 0.9372549019607843"></feFuncR>
+            <feFuncG type="table" tableValues="0.11372549019607843 0.19215686274509805"></feFuncG>
+            <feFuncB type="table" tableValues="0.403921568627451 0.1411764705882353"></feFuncB>
+            <feFuncA type="table" tableValues="0 1"></feFuncA>
+        </feComponentTransfer> 
+    </filter>
+
+    <filter id="duotone_bluetan">
+        <feColorMatrix type="matrix" result="gray"
+            values="1 0 0 0 0
+                    1 0 0 0 0
+                    1 0 0 0 0
+                    0 0 0 1 0" >
+        </feColorMatrix>
+
+        <feComponentTransfer color-interpolation-filters="sRGB" result="duotone">
+            <feFuncR type="table" tableValues="0 0.9411764706"></feFuncR>
+            <feFuncG type="table" tableValues="0.1411764706 0.937254902"></feFuncG>
+            <feFuncB type="table" tableValues="0.2117647059 0.8823529412"></feFuncB>
+            <feFuncA type="table" tableValues="0 1"></feFuncA>
+        </feComponentTransfer>
+    </filter> 
+</svg> <!-- evo-image-filter-effect -->
+</div><!-- garage-theme end -->
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><link rel='stylesheet' id='wpgmaps-style-css'  href='http://pltf.ru/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=6.4.11' type='text/css' media='1' />
+<style id='wpgmaps-style-inline-css' type='text/css'>
+.wpgmza_map img { max-width:none; } .wpgmza_widget { overflow: auto; }
+</style>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","currentText":"\u0421\u0435\u0433\u043e\u0434\u043d\u044f","monthNames":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthNamesShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"nextText":"\u0414\u0430\u043b\u0435\u0435","prevText":"\u041d\u0430\u0437\u0430\u0434","dayNames":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"dayNamesShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dayNamesMin":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dateFormat":"dd.mm.yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/pltf.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/stkit/assets/js/jquery.stkit.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"http:\/\/pltf.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/wp-review/assets/js/main.js?ver=4.0.11'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/themes/garage/includes/assets/js/evo-core.js'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/themes/garage/includes/assets/js/evo-custom.js'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeajax = {"ajaxurl":"http:\/\/pltf.ru\/wp-admin\/admin-ajax.php","ajaxNonce":"2dbe15b809"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/themes/garage/includes/assets/js/ajax-app.js'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/comment-reply.min.js?ver=4.8.10'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/assets/js/plugins//gmb-infobubble.min.js?ver=2.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gmb_data = {"i18n":{"get_directions":"Get Directions","visit_website":"Visit Website"},"infobubble_args":{"shadowStyle":0,"padding":12,"backgroundColor":"rgb(255, 255, 255)","borderRadius":3,"arrowSize":15,"minHeight":20,"maxHeight":450,"minWidth":200,"maxWidth":350,"borderWidth":0,"disableAutoPan":true,"disableAnimation":true,"backgroundClassName":"gmb-infobubble","closeSrc":"https:\/\/www.google.com\/intl\/en_us\/mapfiles\/close.gif"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/assets/js/frontend/google-maps-builder.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/google-maps-builder/vendor/wordimpress/maps-builder-core/includes/libraries/map-icons/js/map-icons.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://pltf.ru/wp-includes/js/wp-embed.min.js?ver=4.8.10'></script>
+<script type='text/javascript' src='//maps.google.com/maps/api/js?v=3.exp&#038;key=AIzaSyD0grL42_TMvLhb-_OtfvFnojE6nkk5-Lw&#038;language=ru&#038;libraries=places'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmaps_mapid = "1";
+var wpgmaps_localize = {"1":{"id":"1","map_title":"\u041e\u0444\u0438\u0441","map_width":"100","map_height":"303","map_start_lat":"55.740834","map_start_lng":"37.610178","map_start_location":"55.740834000000014,37.61017786508181","map_start_zoom":"15","default_marker":"0","type":"1","alignment":"2","directions_enabled":"1","styling_enabled":"0","styling_json":"","active":"0","kml":"","bicycle":"2","traffic":"2","dbox":"1","dbox_width":"100","listmarkers":"0","listmarkers_advanced":"0","filterbycat":"0","ugm_enabled":"0","ugm_category_enabled":"0","fusion":"","map_width_type":"%","map_height_type":"px","mass_marker_support":"1","ugm_access":"0","order_markers_by":"1","order_markers_choice":"2","show_user_location":"0","default_to":"","other_settings":{"store_locator_enabled":2,"store_locator_distance":2,"store_locator_default_radius":"10","store_locator_not_found_message":"No results found in this location. Please try again.","store_locator_bounce":1,"store_locator_query_string":"ZIP \/ Address:","store_locator_default_address":"","wpgmza_store_locator_restrict":"","map_max_zoom":"1","transport_layer":2,"wpgmza_theme_data":"[{\"featureType\":\"administrative\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"on\"},{\"lightness\":33}]},{\"featureType\":\"landscape\",\"elementType\":\"all\",\"stylers\":[{\"color\":\"#f2e5d4\"}]},{\"featureType\":\"poi.park\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#c5dac6\"}]},{\"featureType\":\"poi.park\",\"elementType\":\"labels\",\"stylers\":[{\"visibility\":\"on\"},{\"lightness\":20}]},{\"featureType\":\"road\",\"elementType\":\"all\",\"stylers\":[{\"lightness\":20}]},{\"featureType\":\"road.highway\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#c5c6c6\"}]},{\"featureType\":\"road.arterial\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#e4d7c6\"}]},{\"featureType\":\"road.local\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#fbfaf7\"}]},{\"featureType\":\"water\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"on\"},{\"color\":\"#acbcc9\"}]}]","wpgmza_theme_selection":4,"wpgmza_show_points_of_interest":1}}};
+var wpgmaps_localize_polygon_settings = [];
+var wpgmaps_localize_polyline_settings = [];
+var wpgmaps_markerurl = "\/\/pltf.ru\/wp-content\/uploads\/wp-google-maps\/1markers.xml";
+var wpgmaps_localize_marker_data = {"2":{"map_id":"1","marker_id":"2","title":"","address":"\u0411\u0435\u0440\u0441\u0435\u043d\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, 2, \u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f","desc":"","pic":"","icon":"","linkd":"","lat":"55.740834","lng":"37.60981600000002","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""}};
+var wpgmaps_localize_global_settings = {"wpgmza_settings_marker_pull":"0"};
+var wpgmaps_lang_km_away = "km away";
+var wpgmaps_lang_m_away = "miles away";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/wp-google-maps/js/wpgmaps.js?ver=6.4.11b'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.2'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://pltf.ru/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.2'></script>
+<![endif]-->
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+</body>
+</html>
