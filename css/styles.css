@@ -1,16 +1,16 @@
 @font-face {
   font-family: Mija;
-  src: url(fonts/mija_regular-webfont.woff2);
+  src: url("fonts/mija_regular-webfont.woff2");
 }
 
 body {
-  font-family: Mija sans-serif;
+  font-family: Mija, sans-serif;
 }
 
 .header {
   background: #d33a2c;
   display: flex;
-  justify-content: space-between; /*виравнивание по ширине */
+  justify-content: space-between; /*выравнивание по ширине */
   align-items: center;
   padding: 20px 30px;
 }
