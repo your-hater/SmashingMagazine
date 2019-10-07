@@ -10,8 +10,8 @@
   </head>
   <body>
     <header class="header">
-      <a href="/">
-        <img src="images/logo.svg" alt="Logo" width="100" />
+      <a href="/" class="logo">
+        <img src="images/logo.svg" alt="Logo" />
       </a>
       <nav>
         <ul class="menu">
@@ -54,11 +54,14 @@
         </ul>
       </nav>
       <div>
-        <form action="#">
-          <label for="search">Search please</label><br />
-          <input type="search" name="search" /><br />
-          <button type="submit">Search</button><br />
-          <button type="reset">Reset</button>
+        <form action="#" class="search">
+          <input
+            type="search"
+            name="search"
+            id="search"
+            placeholder="Search please..."
+          />
+          <button type="submit">&nbsp;</button>
         </form>
       </div>
     </header>
